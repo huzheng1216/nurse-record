@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">喂奶记</string>
+    <string name="baby_name">宝贝姓名：</string>
+    <string name="baby_name_hint">姓名</string>
+    <string name="baby_birth_data">出生日期：</string>
+    <string name="baby_birth_data_hint">日期</string>
+    <string name="baby_gender">性别：</string>
+    <string name="babys">宝贝列表：</string>
+    <string name="add">增添新宝贝</string>
+
+
+</resources>
